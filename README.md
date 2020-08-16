@@ -1,4 +1,4 @@
-# One Month Online Training about Basic Python Data Science
+# One Month Online Training about Data Science (Focusing on Text Preprocessing)
 This training was organized by Sanbercode focusing on text preprocessing, sentiment analysis, and SQL with Python :
 
 Week 1 (Web Scraping) :
