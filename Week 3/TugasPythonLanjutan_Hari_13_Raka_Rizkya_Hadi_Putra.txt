@@ -1,0 +1,1 @@
+SELECT a.Title, b.Name, c.Name as track FROM albums a INNER JOIN artists b ON a.ArtistId = b.ArtistId INNER JOIN tracks c ON a.AlbumId = c.AlbumId WHERE b.Name = 'Aerosmith' OR (b.Name = 'AC/DC' AND a.Title = 'Let There Be Rock');
